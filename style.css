@@ -79,7 +79,7 @@ nav .right a span {
     display: inline-block;
     padding: 5px 10px;
     border: 2px solid var(--link-color);
-    border-radius: 5px;
+    border-radius: 2px;
     margin-right: 10px; 
 }
 
@@ -95,7 +95,7 @@ nav .right a span {
 }
 
 .hero-section .headshot img {
-    width: 350px;
+    width: 280px;
     border-radius: 50%;
 }
 
